@@ -1,2 +1,2 @@
-# bootstrap-ile-mimarl-k-web-sayfas-
+# architecture web blog
 bootstrap ile mimarlık web sayfası
